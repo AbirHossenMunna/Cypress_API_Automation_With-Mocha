@@ -1,6 +1,6 @@
 # Cypress_API_Automation_With_Mocha
 
-### An API is tested by using Cypress framework integrated with Mocha as testing framework for validation purpose. Here, the status codes, validation messages and the flow of API is tested using a Dmoney API where there is login,searching,creating,updating and deleting features.
+### An API is tested by using Cypress integrated with Mocha framework as testing framework for validation purpose. Here, the status codes, validation messages and the flow of API is tested using a Dmoney API where there is login,searching,creating,updating and deleting features.
 
 Here the following tasks are done:
 
